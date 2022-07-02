@@ -3,9 +3,11 @@
 
 ## 使い方
 1. 本リポジトリを**fork**
-1. [setting.csv](./setting.csv)を変更して**push**
-1. **Github Actions**を用いて自動実行
-1. [output.txt](./output.txt)を[調整さん](https://chouseisan.com/)にコピペ
+2. **Actions >> I understand my workflows, go ahead and enable them**をクリック
+![screen_shot_1](./pic/screen_shot_1.png)
+2. [setting.csv](./setting.csv)を変更して**push**
+3. **Github Actions**を用いて自動実行
+4. [output.txt](./output.txt)を[調整さん](https://chouseisan.com/)にコピペ
 
 ## setting.csvについて
 - setting.csvの例
